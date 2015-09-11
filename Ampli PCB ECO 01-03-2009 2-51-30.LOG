@@ -1,0 +1,65 @@
+Added Component: Designator=C1(C0805)
+Added Component: Designator=C2(C0805)
+Added Component: Designator=C3(C0805)
+Added Component: Designator=CE1(1608[0603])
+Added Component: Designator=CE2(1608[0603])
+Added Component: Designator=CF(C0805)
+Added Component: Designator=Cin(C0805)
+Added Component: Designator=Cout(C0805)
+Added Component: Designator=Ind(AXIAL-0.4)
+Added Component: Designator=Jin(PIN1)
+Added Component: Designator=P1(HDR1X2)
+Added Component: Designator=Pout(PIN1)
+Added Component: Designator=Q1(SOT23)
+Added Component: Designator=RB1(AXIAL-0.3)
+Added Component: Designator=RB2(AXIAL-0.3)
+Added Component: Designator=RE(2012[0805])
+Added Component: Designator=RF(AXIAL-0.3)
+Added Component: Designator=U1(29-04)
+Added Pin To Net: NetName=5V Pin=C2-1
+Added Pin To Net: NetName=5V Pin=C3-1
+Added Pin To Net: NetName=5V Pin=Ind-2
+Added Pin To Net: NetName=5V Pin=U1-1
+Added Net: Name=5V
+Added Pin To Net: NetName=BASE Pin=Cin-2
+Added Pin To Net: NetName=BASE Pin=Q1-1
+Added Pin To Net: NetName=BASE Pin=RB1-2
+Added Pin To Net: NetName=BASE Pin=RF-1
+Added Net: Name=BASE
+Added Pin To Net: NetName=COLECTOR Pin=CF-2
+Added Pin To Net: NetName=COLECTOR Pin=Cout-1
+Added Pin To Net: NetName=COLECTOR Pin=Ind-1
+Added Pin To Net: NetName=COLECTOR Pin=Q1-3
+Added Pin To Net: NetName=COLECTOR Pin=RB2-2
+Added Net: Name=COLECTOR
+Added Pin To Net: NetName=EMISOR Pin=CE1-2
+Added Pin To Net: NetName=EMISOR Pin=CE2-2
+Added Pin To Net: NetName=EMISOR Pin=Q1-2
+Added Pin To Net: NetName=EMISOR Pin=RE-2
+Added Net: Name=EMISOR
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=CE1-1
+Added Pin To Net: NetName=GND Pin=CE2-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=RB1-1
+Added Pin To Net: NetName=GND Pin=RE-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=P1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetCF_1 Pin=CF-1
+Added Pin To Net: NetName=NetCF_1 Pin=RB2-1
+Added Pin To Net: NetName=NetCF_1 Pin=RF-2
+Added Net: Name=NetCF_1
+Added Pin To Net: NetName=NetCin_1 Pin=Cin-1
+Added Pin To Net: NetName=NetCin_1 Pin=Jin-1
+Added Net: Name=NetCin_1
+Added Pin To Net: NetName=NetCout_2 Pin=Cout-2
+Added Pin To Net: NetName=NetCout_2 Pin=Pout-1
+Added Net: Name=NetCout_2
+Added Class: Name=Ampli_ancha
+Added Room: Name=Ampli_ancha

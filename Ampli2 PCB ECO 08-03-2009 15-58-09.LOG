@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=U11 Old Footprint=TO92 New Footprint=29-04
+Added Component: Designator=CEE42(1608[0603])
+Added Component: Designator=Jin4(PIN1)
+Added Component: Designator=Pout4(PIN1)
+Added Pin To Net: NetName=NetB41_0 Pin=B41-2
+Added Pin To Net: NetName=GND Pin=CEE42-1
+Added Pin To Net: NetName=NetCE4_2 Pin=CEE42-2
+Added Pin To Net: NetName=NetCin4_1 Pin=Jin4-1
+Added Pin To Net: NetName=NetCout4_2 Pin=Pout4-1
+Added Member To Class: ClassName=Ampli4 Member=Component CEE42 Cap Semi
+Added Member To Class: ClassName=Ampli4 Member=Component Jin4 Socket
+Added Member To Class: ClassName=Ampli4 Member=Component Pout4 Plug
